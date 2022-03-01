@@ -1,9 +1,5 @@
 [package]
-<<<<<<< HEAD
-name = "tests"
-=======
 name = "render3D"
->>>>>>> ccbc06b (Finished 3d base + fixed 2d draw)
 version = "0.1.0"
 edition = "2021"
 

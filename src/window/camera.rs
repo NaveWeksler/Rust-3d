@@ -1,20 +1,3 @@
-<<<<<<< HEAD
-use crate::window::render::Point;
-
-struct Canvas { // plane from (0,0) to (width, height)
-    ex: i32,
-    ey: i32
-}
-
-impl Canvas {
-    fn project(&self, v: Point) {
-        
-    }
-}
-
-pub struct Camera {
-    screen: Canvas
-=======
 use super::vec3::Vec3;
 use super::objects::Triangle;
 
@@ -77,5 +60,4 @@ pub fn mul_mat4(vec: &Vec3, mat: &[[f32; 4]; 4]) -> Vec3{
         z: z
     }
     
->>>>>>> ccbc06b (Finished 3d base + fixed 2d draw)
 }

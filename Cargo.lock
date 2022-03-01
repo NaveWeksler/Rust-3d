@@ -403,8 +403,6 @@ dependencies = [
 ]
 
 [[package]]
-<<<<<<< HEAD
-=======
 name = "render3D"
 version = "0.1.0"
 dependencies = [
@@ -412,7 +410,6 @@ dependencies = [
 ]
 
 [[package]]
->>>>>>> ccbc06b (Finished 3d base + fixed 2d draw)
 name = "rustc-hash"
 version = "1.1.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -496,16 +493,6 @@ dependencies = [
 ]
 
 [[package]]
-<<<<<<< HEAD
-name = "tests"
-version = "0.1.0"
-dependencies = [
- "minifb",
-]
-
-[[package]]
-=======
->>>>>>> ccbc06b (Finished 3d base + fixed 2d draw)
 name = "textwrap"
 version = "0.11.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
